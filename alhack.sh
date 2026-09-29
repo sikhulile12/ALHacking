@@ -9,7 +9,7 @@ echo -e '\033[31;40;1m
  ██║  ██║███████╗           ██║   ╚██████╔╝╚██████╔╝███████╗
  ╚═╝  ╚═╝╚══════╝           ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝ v4
   Coded by Austin Data Group
-  github: https://github.com/4lbH4cker
+  github: https://github.com/sikhulile12/ALHacking
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
 
 \e[37m[1]\e[36m Kërkesat & Përditësimi        \e[37m[2]\e[36m Phishing Tool				
